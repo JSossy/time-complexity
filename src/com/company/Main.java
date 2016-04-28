@@ -80,25 +80,4 @@ public class Main {
         return Array;
     }
 }
-//    public static int[] selectionSort(int[] Array) {
-//    int i, j;
-//    int iMin;
-//    int arrayLength = Array.length;
-//    for (j = 0; j < arrayLength; j++) {
-//        iMin = j;
-//
-//        for (i = j + 1; i < arrayLength; i++) {
-//            if (Array[i] < Array[iMin]) {
-//                iMin = i;
-//            }
-//        }
-//
-//
-//        int temp = Array[iMin];
-//        Array[iMin] = Array[j];
-//        Array[j] = temp;
-//    }
-//    return Array;
-//}
-//}
 
